@@ -1,0 +1,9 @@
+WebHost IP=173.16.57.201:18890
+DB USERNAME=webhostadmin
+DB_PASSWORD=123456789
+Interface_Name=eth0
+database_user_ip=127.0.0.1
+database_name=parking
+SSL_state=1
+certificate_path=cert.pem
+key_path=key.pem
